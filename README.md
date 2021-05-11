@@ -103,6 +103,5 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
 
 You could join our slack team in case you need any help or have any questions. [Join Slack team](https://join.slack.com/t/techclubofjyothyit/shared_invite/zt-q6zj1yqq-4vRT1JRg2B83k8kdSlkXoA).
